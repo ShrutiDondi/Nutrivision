@@ -1,5 +1,5 @@
 import React, { useCallback, useState } from 'react';
-import { Upload, Camera, X } from 'lucide-react';
+import { Upload, Camera } from 'lucide-react';
 
 interface ImageUploadProps {
   onImageUpload: (file: File) => void;

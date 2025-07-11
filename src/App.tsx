@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Upload, Camera, BarChart3, Clock, Plus } from 'lucide-react';
 import ImageUpload from './components/ImageUpload';
 import NutritionDisplay from './components/NutritionDisplay';
